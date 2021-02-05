@@ -1,5 +1,12 @@
 ### Hi there 👋
 - 🐳 Doker
+- 📱 Flutter
+- 📱 kotlin
+- ⚙ Node
+- 🐘 Php
+- 🐍 Python
+- 🐭 Go
+- 
 <!--
 **yocheco/yocheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
