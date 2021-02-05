@@ -6,7 +6,4 @@ I am Sergio Sandoval 🤓
 - 📱 Flutter - 📱 kotlin - 📱 Swift
 - 🅰 Angular
 ### Back
-- ⚙ Node
-- 🐘 Php
-- 🐍 Python
-- 🐭 Go
+- ⚙ Node - 🐘 Php - 🐍 Python - 🐭 Go
