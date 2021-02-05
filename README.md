@@ -1,9 +1,8 @@
 ### Hi there 👋
 ## Dev
-- 🐳 Doker
+- 🐳 Doker - 🐙kubernetes
 ## Front
-- 📱 Flutter
-- 📱 kotlin
+- 📱 Flutter - 📱 kotlin
 ## Back
 - ⚙ Node
 - 🐘 Php
