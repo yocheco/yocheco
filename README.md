@@ -1,8 +1,10 @@
-## Hi there 👋
+## Hello reader thing 👋
+I am Sergio Sandoval 🤓
 ### Dev
 - 🐳 Doker - 🐙kubernetes
 ### Front
-- 📱 Flutter - 📱 kotlin
+- 📱 Flutter - 📱 kotlin - 📱 Swift
+- 🅰 Angular
 ### Back
 - ⚙ Node
 - 🐘 Php
