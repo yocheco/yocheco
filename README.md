@@ -1,7 +1,10 @@
 ### Hi there 👋
+##Dev
 - 🐳 Doker
+##Front
 - 📱 Flutter
 - 📱 kotlin
+##Back
 - ⚙ Node
 - 🐘 Php
 - 🐍 Python
