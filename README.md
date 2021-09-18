@@ -1,5 +1,5 @@
 ## Hello reader thing 👋
-I am Sergio Sandoval 🤓
+I am Sergio Sandoval :rage4:	
 ### Dev
 - 🐳 Doker - 🐙kubernetes - 🟩 Nginx
 ### Front
