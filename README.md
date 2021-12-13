@@ -4,7 +4,7 @@ I am Sergio Sandoval :rage4:
 - 🐳 Doker - 🐙kubernetes - 🟩 Nginx
 ### Front
 - 📱 Flutter - 📱 kotlin - 📱 Swift
-- 🅰 Angular
+- 🅰 Angular - 🔵 React
 ### Back
 - ⚙ Node - 🐘 Php - 🐍 Python - 🐭 Go - ☕ Java
 
