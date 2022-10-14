@@ -1,4 +1,4 @@
-## Hello stranger Reader 👋
+## Hello Stranger Reader 👋
 I am Sergio Sandoval :rage4:	
 ### Dev
 - 🐳 Doker - 🐙kubernetes - 🟩 Nginx
