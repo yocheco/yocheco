@@ -6,6 +6,6 @@ I am Sergio Sandoval :rage4:
 - 📱 Flutter - 📱 kotlin - 📱 Swift
 - 🅰 Angular - 🔵 React
 ### Back
-- ⚙ Node - 🐘 Php - 🐍 Python - 🐭 Go - ☕ Java
+- ⚙ Ts - 🐘 Php - 🐍 Python - 🐭 Go - ☕ Java
 
 ..... AND MORE 🦄
